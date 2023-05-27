@@ -31,5 +31,6 @@
 *.out
 *.app
 
-# Binaries
+# Project Specific
 *.bin
+iso/
